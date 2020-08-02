@@ -22,6 +22,7 @@ $(function() {
 
 
 // 获取用户信息封装
+//后面要用 所以必须是全局变量   后面 fm  要用
 function getUserInfo() {
 
     $.ajax({
